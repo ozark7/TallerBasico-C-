@@ -1,0 +1,8 @@
+C:\Users\usuario\source\repos\Proyecto\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Proyecto\Logica\obj\Debug\Logica.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\Proyecto\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Proyecto\Logica\bin\Debug\Logica.exe.config
+C:\Users\usuario\source\repos\Proyecto\Logica\bin\Debug\Logica.exe
+C:\Users\usuario\source\repos\Proyecto\Logica\bin\Debug\Logica.pdb
+C:\Users\usuario\source\repos\Proyecto\Logica\obj\Debug\Logica.exe
+C:\Users\usuario\source\repos\Proyecto\Logica\obj\Debug\Logica.pdb

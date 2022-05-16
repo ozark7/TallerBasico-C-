@@ -1,0 +1,11 @@
+C:\Users\usuario\source\repos\Proyecto\Menu\bin\Debug\Menu.exe.config
+C:\Users\usuario\source\repos\Proyecto\Menu\bin\Debug\Menu.exe
+C:\Users\usuario\source\repos\Proyecto\Menu\bin\Debug\Menu.pdb
+C:\Users\usuario\source\repos\Proyecto\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Proyecto\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\Proyecto\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Proyecto\Menu\obj\Debug\Menu.exe
+C:\Users\usuario\source\repos\Proyecto\Menu\obj\Debug\Menu.pdb
+C:\Users\usuario\source\repos\Proyecto\Menu\bin\Debug\Logic.dll
+C:\Users\usuario\source\repos\Proyecto\Menu\bin\Debug\Logic.pdb
+C:\Users\usuario\source\repos\Proyecto\Menu\obj\Debug\Menu.csproj.CopyComplete
